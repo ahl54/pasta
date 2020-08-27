@@ -1,2 +1,2 @@
 # pasta
-A pasta API
+A pasta API to submit and return information about pasta
